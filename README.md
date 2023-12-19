@@ -68,7 +68,7 @@ GROUP BY tb_usuarios.nome;
 ![Profissionais_por_Categoria](https://github.com/deboratobalo/Projeto-Final-M3/assets/116042338/1896621c-0a98-44b1-a8eb-08cdf8ae290c)
 
 
-Link Apresentação
+**LINK APRESENTAÇÃO**
 
 Para acessar o link da apresentação é só seguir o link abaixo
 
